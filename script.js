@@ -1,5 +1,5 @@
 const vardi=['Artūrs','Jānis','Mārtiņš','Ričards','Al-Habībs'];
-const balvas=['19$ Fortnite dāvanu karte','Juan','Turcijas impērija','vieta CIA watchlistā','šie rieksti'];
+const balvas=['19$ Fortnite dāvanu karte','Juan','Turcijas impērija','divi(2) rieksti','vieta CIA watchlistā'];
 const naudaKopa=3;
 let uzvaretajuskaits=5;
 let rindas = document.querySelector('.rindas');
